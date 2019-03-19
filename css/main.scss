@@ -5,3 +5,7 @@ $secondary-color: #ff3d00;
 body{
     background-color: $secondary-color;
 }
+.page {
+    display: grid;
+    grid-row-gap: 50px;
+}

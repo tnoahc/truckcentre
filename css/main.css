@@ -1,4 +1,10 @@
 body {
   background-color: #ff3d00;
 }
+
+.page {
+  display: -ms-grid;
+  display: grid;
+  grid-row-gap: 50px;
+}
 /*# sourceMappingURL=main.css.map */
